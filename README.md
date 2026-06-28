@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kartik-kumbhar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kartik-kumbhar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kartik-kumbhar/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/kartik-kumbhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kartik-kumbhar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-kumbhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kartik-kumbhar/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kartik-kumbhar/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik-kumbhar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/kartik-kumbhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kartik-kumbhar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartik-kumbhar/LeetCode/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik-kumbhar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kartik-kumbhar/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/kartik-kumbhar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/kartik-kumbhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kartik-kumbhar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kartik-kumbhar/LeetCode/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/kartik-kumbhar/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kartik-kumbhar/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/kartik-kumbhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kartik-kumbhar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartik-kumbhar/LeetCode/tree/master/0242-valid-anagram) |
 ## Prefix Sum
