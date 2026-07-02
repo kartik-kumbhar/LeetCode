@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kartik-kumbhar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kartik-kumbhar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartik-kumbhar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0268-missing-number) |
 | [1572-matrix-diagonal-sum](https://github.com/kartik-kumbhar/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kartik-kumbhar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/kartik-kumbhar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartik-kumbhar/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik-kumbhar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kartik-kumbhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kartik-kumbhar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartik-kumbhar/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kartik-kumbhar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik-kumbhar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartik-kumbhar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -116,11 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kartik-kumbhar/LeetCode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kartik-kumbhar/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kartik-kumbhar/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/kartik-kumbhar/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/kartik-kumbhar/LeetCode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
