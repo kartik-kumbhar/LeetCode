@@ -17,7 +17,6 @@ class Solution {
         while (temp.next != null) {
             if (temp.val == temp.next.val) {
                 temp.next = temp.next.next;
-                // temp = temp.next;
             } else {
                 temp = temp.next;
             }
