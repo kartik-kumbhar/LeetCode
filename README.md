@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kartik-kumbhar/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kartik-kumbhar/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartik-kumbhar/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kartik-kumbhar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartik-kumbhar/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
