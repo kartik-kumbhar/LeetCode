@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kartik-kumbhar/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/kartik-kumbhar/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/kartik-kumbhar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kartik-kumbhar/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik-kumbhar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/kartik-kumbhar/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/kartik-kumbhar/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kartik-kumbhar/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/kartik-kumbhar/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Matrix
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kartik-kumbhar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/kartik-kumbhar/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
