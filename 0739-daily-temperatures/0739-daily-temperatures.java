@@ -4,13 +4,10 @@ class Solution {
         int answer[] = new int[n];
         Stack<Integer> st = new Stack<>();
         for (int i = n - 1; i >= 0; i--) {
-            int count = 0;
             while (!st.isEmpty() && temperatures[i] >= temperatures[st.peek()]) {
                 st.pop();
             }
-            if (st.isEmpty()) {
-                answer[i] = 0;
-            } else {
+            if (!st.isEmpty()) {
                 answer[i] = st.peek() - i;
             }
 
