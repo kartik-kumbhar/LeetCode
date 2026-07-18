@@ -1,9 +1,9 @@
 class StockSpanner {
-    Stack<Integer> st;
+    Stack<Integer> s;
     ArrayList<Integer> prices;
 
     public StockSpanner() {
-        st = new Stack<>();
+        s = new Stack<>();
         prices = new ArrayList<>();
     }
 
@@ -11,19 +11,18 @@ class StockSpanner {
         int span = 1;
         prices.add(price);
         int i = prices.size() - 1;
-        while (!st.isEmpty() && prices.get(st.peek()) <= price) {
-            st.pop();
+        while (!s.isEmpty() && prices.get(s.peek()) <= price) {
+            s.pop();
         }
-        if (st.isEmpty()) {
+        if (s.isEmpty()) {
             span = i + 1;
         } else {
-            span = i - st.peek();
-        }
-        st.push(i);
+            span = i - s.peek();
 
+        }
+        s.push(i);
         return span;
     }
-
 }
 
 /**
