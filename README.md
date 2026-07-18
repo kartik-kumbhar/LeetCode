@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kartik-kumbhar/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kartik-kumbhar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kartik-kumbhar/LeetCode/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/kartik-kumbhar/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik-kumbhar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/kartik-kumbhar/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/kartik-kumbhar/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/kartik-kumbhar/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/kartik-kumbhar/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/kartik-kumbhar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kartik-kumbhar/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kartik-kumbhar/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/kartik-kumbhar/LeetCode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
