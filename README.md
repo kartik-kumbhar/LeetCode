@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/kartik-kumbhar/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik-kumbhar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/kartik-kumbhar/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/kartik-kumbhar/LeetCode/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/kartik-kumbhar/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartik-kumbhar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/kartik-kumbhar/LeetCode/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kartik-kumbhar/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartik-kumbhar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik-kumbhar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/kartik-kumbhar/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/kartik-kumbhar/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
