@@ -10,11 +10,12 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        if (list1 == null)
+        if (list1 == null) {
             return list2;
-        if (list2 == null)
+        }
+        if (list2 == null) {
             return list1;
-
+        }
         ListNode head = null;
         ListNode tail = null;
 
@@ -24,7 +25,6 @@ class Solution {
 
                 if (head == null) {
                     head = tail = newNode;
-
                 }
                 tail.next = newNode;
                 tail = newNode;
@@ -34,21 +34,19 @@ class Solution {
 
                 if (head == null) {
                     head = tail = newNode;
-
                 }
                 tail.next = newNode;
                 tail = newNode;
                 list2 = list2.next;
-
             }
         }
-        if (list1 != null) {
-            tail.next = list1;
-        }
-        if (list2 != null) {
+
+        if (list1 == null) {
             tail.next = list2;
         }
+        if (list2 == null) {
+            tail.next = list1;
+        }
         return head;
-
     }
 }
