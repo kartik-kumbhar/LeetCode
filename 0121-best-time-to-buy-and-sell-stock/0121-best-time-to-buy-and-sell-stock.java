@@ -12,10 +12,11 @@ class Solution {
                 maxProfit = profit;
             }
         }
+
         // for(int i=0;i<prices.length;i++){
         //     for(int j=i+1;j<prices.length;j++){
-        //         if(prices[j]-prices[i]>max){
-        //             max=prices[j]-prices[i];
+        //         if(prices[j]-prices[i]>maxProfit){
+        //             maxProfit=prices[j]-prices[i];
         //         }
         //     }
         // }
