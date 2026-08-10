@@ -6,29 +6,25 @@ class Solution {
         //     s = s.replace("[]", "");
         //     s = s.replace("{}", "");
         // }
+        // return s.isEmpty();
 
-        Stack<Character> st = new Stack<>();
+        Stack<Character> stack = new Stack<>();
 
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
             if (ch == '(' || ch == '[' || ch == '{') {
-                st.push(ch);
+                stack.push(ch);
             } else {
-                if (st.isEmpty()) {
+                if (stack.isEmpty()) {
                     return false;
-                }
-                if (ch == ')' && st.pop() != '(') {
+                } else if (ch == ')' && stack.peek() != '(' || ch == ']' && stack.peek() != '['
+                        || ch == '}' && stack.peek() != '{') {
                     return false;
-                } else if (ch == ']' && st.pop() != '[') {
-                    return false;
-                } else if (ch == '}' && st.pop() != '{') {
-                    return false;
-                } 
-            }
 
+                }
+                stack.pop();
+            }
         }
-        return st.isEmpty();
+        return stack.isEmpty();
     }
 }
-
-
