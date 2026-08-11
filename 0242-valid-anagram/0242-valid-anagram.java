@@ -3,46 +3,36 @@ class Solution {
         if (s.length() != t.length()) {
             return false;
         }
-        char arr1[] = s.toCharArray();
-        char arr2[] = t.toCharArray();
 
-        Arrays.sort(arr1);
-        Arrays.sort(arr2);
-
-        for (int i = 0; i < arr1.length; i++) {
-            if (arr1[i] != arr2[i]) {
+        char ch1[] = s.toCharArray();
+        char ch2[] = t.toCharArray();
+        Arrays.sort(ch1);
+        Arrays.sort(ch2);
+        int i = 0;
+        while (i < ch1.length) {
+            if (ch1[i] != ch2[i]) {
                 return false;
             }
+            i++;
         }
-
-        // HashMap<Character, Integer> m1 = new HashMap<>();
-        // HashMap<Character, Integer> m2 = new HashMap<>();
+        return true;
+        // HashMap<Character, Integer> map = new HashMap<>();
 
         // for (int i = 0; i < s.length(); i++) {
-        //     m1.put(s.charAt(i), m1.getOrDefault(s.charAt(i), 0) + 1);
-        //     m2.put(t.charAt(i), m2.getOrDefault(t.charAt(i), 0) + 1);
+        //     char ch1 = s.charAt(i);
+
+        //     map.put(ch1, map.getOrDefault(ch1, 0) + 1);
 
         // }
-
         // for (int i = 0; i < s.length(); i++) {
-        //     if (!m1.get(s.charAt(i)).equals(m2.get(s.charAt(i)))) {
+        //     char ch2 = t.charAt(i);
+
+        //     if (!map.containsKey(ch2) || map.get(ch2) == 0) {
         //         return false;
         //     }
+        //     map.put(ch2, map.get(ch2) - 1);
         // }
-
-        /////////////////////////////////////////////////////
-        // int[] count = new int[26];
-
-        // for (int i = 0; i < s.length(); i++) {
-        //     count[s.charAt(i) - 'a']++;
-        //     count[t.charAt(i) - 'a']--;
-        // }
-
-        // for (int num : count) {
-        //     if (num != 0) return false;
-        // }
-
-        return true;
+        // return true;
 
     }
 }
