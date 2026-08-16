@@ -1,17 +1,12 @@
 class Solution {
     public int hammingWeight(int n) {
-        // String binary = Integer.toBinaryString(n);
         int count = 0;
-        for (int i = 0; i < 32; i++) {
-            int bitmask = 1 << i;
-            if((n&bitmask)!=0){
+        while (n > 0) {
+            int reminder = n % 2;
+            if (reminder == 1) {
                 count++;
             }
-
-            // if (binary.charAt(i) == '1') {
-            //     count++;
-            // }
-
+            n = n / 2;
         }
         return count;
     }
