@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kartik-kumbhar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartik-kumbhar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kartik-kumbhar/LeetCode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/kartik-kumbhar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/kartik-kumbhar/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kartik-kumbhar/LeetCode/tree/master/0739-daily-temperatures) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kartik-kumbhar/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/kartik-kumbhar/LeetCode/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/kartik-kumbhar/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/kartik-kumbhar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0876-middle-of-the-linked-list) |
