@@ -1,22 +1,24 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        // int result = 0;
-        // for (int n : nums) {
-        //     result ^= n;   // XOR cancels out duplicate numbers
+       
+
+        // Map<Integer, Integer> map = new HashMap<>();
+
+        // for (int i = 0; i < nums.length; i++) {
+        //     map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
         // }
-        // return result;
 
-        Map<Integer, Integer> map = new HashMap<>();
+        // for (int num : map.keySet()) {
+        //     if (map.get(num) == 1) {
+        //         return num;
+        //     }
+        // }
+        // return 0;
 
-        for (int i = 0; i < nums.length; i++) {
-            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+        int result=0;
+        for(int num:nums){
+            result^=num;
         }
-
-        for (int num : map.keySet()) {
-            if (map.get(num) == 1) {
-                return num;
-            }
-        }
-        return 0;
+        return result;
     }
 }
