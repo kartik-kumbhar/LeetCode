@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kartik-kumbhar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kartik-kumbhar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-kumbhar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-kumbhar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/kartik-kumbhar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik-kumbhar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kartik-kumbhar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/kartik-kumbhar/LeetCode/tree/master/0338-counting-bits) |
