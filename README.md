@@ -264,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kartik-kumbhar/LeetCode/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [1907-count-salary-categories](https://github.com/kartik-kumbhar/LeetCode/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
