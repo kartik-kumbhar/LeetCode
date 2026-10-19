@@ -269,5 +269,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kartik-kumbhar/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/kartik-kumbhar/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1527-patients-with-a-condition](https://github.com/kartik-kumbhar/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1907-count-salary-categories](https://github.com/kartik-kumbhar/LeetCode/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
