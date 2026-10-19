@@ -267,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/kartik-kumbhar/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1907-count-salary-categories](https://github.com/kartik-kumbhar/LeetCode/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
