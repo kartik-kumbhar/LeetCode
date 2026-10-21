@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kartik-kumbhar/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kartik-kumbhar/LeetCode/tree/master/0739-daily-temperatures) |
 | [1572-matrix-diagonal-sum](https://github.com/kartik-kumbhar/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumbhar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kartik-kumbhar/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartik-kumbhar/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumbhar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -272,4 +274,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/kartik-kumbhar/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1527-patients-with-a-condition](https://github.com/kartik-kumbhar/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1907-count-salary-categories](https://github.com/kartik-kumbhar/LeetCode/tree/master/1907-count-salary-categories) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumbhar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumbhar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumbhar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
