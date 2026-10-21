@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik-kumbhar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kartik-kumbhar/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0507-perfect-number](https://github.com/kartik-kumbhar/LeetCode/tree/master/0507-perfect-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartik-kumbhar/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik-kumbhar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
