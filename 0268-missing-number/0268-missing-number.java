@@ -1,9 +1,21 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int missing = nums.length;
-        for (int i = 0; i < nums.length; i++) {
-            missing = missing ^ i ^ nums[i];
+        int n = nums.length;
+        int expectedSum = n * (n +1) / 2;
+        int actualSum=0;
+
+        for (int i = 0; i < n; i++) {
+            actualSum += nums[i];
         }
-        return missing;
+        // Arrays.sort(nums);
+        // if (nums[nums.length - 1] != nums.length) {
+        //     return nums.length;
+        // }
+        // for (int i = 0; i < nums.length; i++) {
+        //     if (nums[i] != i) {
+        //         return i;
+        //     }
+        // }
+        return expectedSum - actualSum;
     }
 }
