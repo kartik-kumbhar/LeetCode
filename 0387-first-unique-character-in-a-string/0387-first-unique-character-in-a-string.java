@@ -3,8 +3,8 @@ class Solution {
         int ch[] = new int[26];
 
         for (int i = 0; i < s.length(); i++) {
-            // char c = s.charAt(i);
-            ch[s.charAt(i) - 'a']++;
+            char c = s.charAt(i);
+            ch[c - 'a']++;
         }
 
         for (int i = 0; i < s.length(); i++) {
