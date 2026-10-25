@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kartik-kumbhar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kartik-kumbhar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kartik-kumbhar/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kartik-kumbhar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/kartik-kumbhar/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kartik-kumbhar/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kartik-kumbhar/LeetCode/tree/master/0049-group-anagrams) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kartik-kumbhar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kartik-kumbhar/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartik-kumbhar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kartik-kumbhar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kartik-kumbhar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kartik-kumbhar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartik-kumbhar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
