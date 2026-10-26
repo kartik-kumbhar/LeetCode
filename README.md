@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kartik-kumbhar/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/kartik-kumbhar/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/kartik-kumbhar/LeetCode/tree/master/0184-department-highest-salary) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/kartik-kumbhar/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-reformat-department-table](https://github.com/kartik-kumbhar/LeetCode/tree/master/1179-reformat-department-table) |
 | [1527-patients-with-a-condition](https://github.com/kartik-kumbhar/LeetCode/tree/master/1527-patients-with-a-condition) |
