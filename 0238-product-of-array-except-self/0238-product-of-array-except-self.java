@@ -14,12 +14,10 @@ class Solution {
         if (zero > 1) {
             Arrays.fill(nums, 0);
         } else if (zero == 1) {
-
             for (int i = 0; i < n; i++) {
                 if (i != index) {
                     product *= nums[i];
                     nums[i] = 0;
-
                 }
 
             }
