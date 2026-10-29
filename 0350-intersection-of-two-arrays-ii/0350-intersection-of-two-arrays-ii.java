@@ -10,7 +10,9 @@ class Solution {
         for (int num : nums2) {
             m2.put(num, m2.getOrDefault(num, 0) + 1);
         }
+
         ArrayList<Integer> list = new ArrayList<>();
+
         for (int num : m1.keySet()) {
             int min = Math.min(m1.getOrDefault(num, 0), m2.getOrDefault(num, 0));
             while (min > 0) {
@@ -19,9 +21,12 @@ class Solution {
             }
         }
         int arr[] = new int[list.size()];
+
         for (int i = 0; i < list.size(); i++) {
             arr[i] = list.get(i);
         }
+
         return arr;
+
     }
 }
